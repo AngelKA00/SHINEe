@@ -1,0 +1,10 @@
+body{
+margin:5px;
+background:linear-gradient(gray,white,gray);
+text-align:center;
+}
+
+h1{
+background:white;
+border-radius:5px;
+}
